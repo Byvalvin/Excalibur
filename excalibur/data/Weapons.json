@@ -1,0 +1,12 @@
+[
+null,
+{"id":1,"animationId":6,"description":"Strong against medium enemies","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0},{"code":11,"dataId":11,"value":1}],"iconIndex":97,"name":"Sword","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":2},
+{"id":2,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":99,"name":"Axe","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":4},
+{"id":3,"animationId":1,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":101,"name":"Cane","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":6},
+{"id":4,"animationId":11,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":102,"name":"Bow","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":7},
+{"id":5,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":107,"name":"Spear","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":12},
+{"id":6,"animationId":1,"description":"Strong against large enemies","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0},{"code":11,"dataId":12,"value":1}],"iconIndex":98,"name":"Mace","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":13},
+{"id":7,"animationId":1,"description":"Strong against small enemies","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0},{"code":11,"dataId":10,"value":1}],"iconIndex":114,"name":"Slingshot","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":14},
+{"id":8,"animationId":1,"description":"Strong against large enemies","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0},{"code":11,"dataId":12,"value":1}],"iconIndex":99,"name":"Battle Axe","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":4},
+{"id":9,"animationId":6,"description":"Strong against small enemies","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0},{"code":11,"dataId":10,"value":1}],"iconIndex":96,"name":"Dagger","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":1}
+]
